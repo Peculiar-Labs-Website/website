@@ -17,9 +17,8 @@ const Dele = () => {
 
       <p>
         We developed an informative website for a distinguished primary and
-        secondary school in Sierra Leone, known as the "Dele Preparatory
-         School & Dele Peddle International High S Web
-        Platform.
+        secondary school in Sierra Leone, known as the "Dele Preparatory School
+        & Dele Peddle International High School" Web Platform.
       </p>
 
       <button onClick={handleClick} className="delebtn">
