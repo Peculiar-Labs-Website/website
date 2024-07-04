@@ -257,7 +257,7 @@ const TeamPage = () => {
         <h1>Our Team</h1>
       </div>
       <div className="main vision">
-        <h1>The Peculars</h1>
+        <h1>The Peculiars</h1>
         <div>
           <p>
             We boast a diverse team of engineering experts, including

@@ -18,7 +18,7 @@ const Dele = () => {
       <p>
         We developed an informative website for a distinguished primary and
         secondary school in Sierra Leone, known as the "Dele Preparatory
-        PreparatoryPreparatoy School & Dele Peddle International High S Web
+         School & Dele Peddle International High S Web
         Platform.
       </p>
 
